@@ -1,35 +1,77 @@
-# SCSS 연습을 위한 Clone
+# SCSS Masterclass
 
--   [x] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
--   [x] [https://paint-box.com/](https://paint-box.com/)
--   [x] [http://10x19.co/](http://10x19.co/)
--   [ ] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
--   [ ] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
--   [ ] [https://tolv.dk/](https://tolv.dk/)
--   [ ] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
--   [ ] [https://beige.de/](https://beige.de/)
--   [ ] [http://donicaida.com/](http://donicaida.com/)
--   [ ] [https://canalstreet.market/](https://canalstreet.market/)
--   [ ] [https://wonhundred.com/](https://wonhundred.com/)
+(S)CSS Layout Masterclass: Flexbox & Grid
 
-# Clone Website
+## Flexbox:
 
-http://10x19.co/
+- [x] flex-direction
+- [x] order
+- [x] justify-content
+- [x] align-items
+- [x] align-self
+- [x] flex-wrap
+- [x] align-content
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
 
-# 결과
+## Grid:
 
-https://rheech22.github.io/clone_website_SCSS_3/
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] column-gap
+- [x] row-gap
+- [x] gap
+- [x] grid-template-areas
+- [x] grid-column-start
+- [x] grid-column-end
+- [x] grid-row-start
+- [x] grid-row-end
+- [x] grid-column
+- [x] grid-row
+- [x] grid-template
+- [x] justify-items
+- [x] align-items
+- [x] place-items
+- [x] justify-content
+- [x] align-content
+- [x] place-content
+- [x] justify-self
+- [x] align-self
+- [x] place-self
+- [x] grid-auto-rows
+- [x] grid-auto-flow
+- [x] grid-auto-columns
 
-# 기록
+### Keywords & Functions:
 
--  그리드 적용
--  선택자 활용
--  mixin 활용
--  마우스이벤트에 따라 사진 전환 효과를 구현하기 위해 javascript 추가
--  애니메이션 효과 적용
+- [x] repeat
+- [x] fr
+- [x] minmax
+- [x] auto-fit
+- [x] auto-fill
+- [x] min-content
+- [x] max-content
 
-# 알게된 것
+## SCSS:
 
-- 'background-image/size/positio'을 통한 배경 적용
-- gap과 background color를 이용해서 border 효과 적용
-- switch 활용법
+- [ ] Variables
+- [ ] Nesting
+- [ ] Partials
+- [ ] Mixins
+- [ ] Extend
+- [ ] Responsive Mixins
+
+## To Clone:
+
+- [ ] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
+- [ ] [https://paint-box.com/](https://paint-box.com/)
+- [ ] [http://10x19.co/](http://10x19.co/)
+- [ ] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
+- [ ] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
+- [ ] [https://tolv.dk/](https://tolv.dk/)
+- [ ] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
+- [ ] [https://beige.de/](https://beige.de/)
+- [ ] [http://donicaida.com/](http://donicaida.com/)
+- [ ] [https://canalstreet.market/](https://canalstreet.market/)
+- [ ] [https://wonhundred.com/](https://wonhundred.com/)
