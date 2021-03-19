@@ -18,7 +18,7 @@ http://10x19.co/
 
 # 결과
 
-https://rheech22.github.io/clone_website_SCSS_2/
+https://rheech22.github.io/clone_website_SCSS_3/
 
 # 기록
 
